@@ -4,3 +4,4 @@ python-dotenv
 streamlit
 tiktoken
 faiss-cpu
+openai
