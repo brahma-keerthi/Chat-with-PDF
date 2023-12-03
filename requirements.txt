@@ -2,6 +2,6 @@ langchain
 pypdf2 
 python-dotenv 
 streamlit
-os
+os-sys
 tiktoken
 faiss-cpu
